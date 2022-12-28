@@ -7,3 +7,6 @@
 @import url(../css/layout/__user-menu.css);
 @import url(../css/base/_animation.css);
 @import url(../css/components/__user-profile.css);
+@import url(../css/pages/home/_banners.css);
+@import url(../css/components/_arrow-slider.css);
+@import url(../css/components/_controls-slider.css);
